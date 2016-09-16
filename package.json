@@ -6,6 +6,7 @@
   "description": "Code from the React tutorial.",
   "main": "server.js",
   "dependencies": {
+    "babel-standalone": "^6.15.1",
     "body-parser": "^1.4.3",
     "express": "^4.4.5"
   },
@@ -29,7 +30,7 @@
     "url": "https://github.com/reactjs/react-tutorial/issues"
   },
   "homepage": "https://github.com/reactjs/react-tutorial",
-  "engines" : {
-    "node" : "0.12.x"
+  "engines": {
+    "node": "0.12.x"
   }
 }
