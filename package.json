@@ -6,8 +6,13 @@
   "description": "Code from the React tutorial.",
   "main": "server.js",
   "dependencies": {
+    "babel-standalone": "^6.15.1",
     "body-parser": "^1.4.3",
-    "express": "^4.4.5"
+    "express": "^4.4.5",
+    "jquery": "^3.1.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "remarkable": "^1.6.2"
   },
   "devDependencies": {},
   "scripts": {
